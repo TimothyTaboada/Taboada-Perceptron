@@ -79,7 +79,7 @@ namespace InputPerceptron
             button2.BackColor = Color.Red;
             button3.BackColor = Color.Red;
             button4.BackColor = Color.Red;
-            output.BackColor = Color.Red;
+            output.BackColor = Color.Gray;
         }
     }
 }
